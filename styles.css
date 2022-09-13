@@ -46,7 +46,7 @@ main {
 .container > h1 {
     font-size: 14px;
     position: absolute;
-    top: 2rem;
+    top: 1.5rem;
     color: var(--button-color);
 }
 
@@ -58,7 +58,7 @@ main {
     color: #fff;
     position: absolute;
     top: 2rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
 
 .divider {
