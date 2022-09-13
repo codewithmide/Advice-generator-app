@@ -1,4 +1,9 @@
+:root {
+    --bg-color: hsl(218, 23%, 16%);
+    --box-color: hsl(217, 19%, 38%);
+    --box-shadow-color: hsl(217, 19%, 24%);
 
+}
 
 .attribution {
     font-size: 11px;
